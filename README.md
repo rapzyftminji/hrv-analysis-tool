@@ -1,4 +1,4 @@
-# ASN Analysis Tools
+# Heart Rate Variability Analysis Tools
 
 This folder contains tools for analyzing physiological data extracted from PPG signals and correlating them with DASS-21 scores.
 
